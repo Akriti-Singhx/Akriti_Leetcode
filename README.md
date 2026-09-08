@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Hash Table
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
 |  |
 | ------- |
