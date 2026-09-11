@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0367-valid-perfect-square) |
 | [1903-largest-odd-number-in-string](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0796-rotate-string) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
