@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0374-guess-number-higher-or-lower) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
