@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Interactive
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Ternary Search
 |  |
 | ------- |
