@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [0905-sort-array-by-parity](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0905-sort-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0905-sort-array-by-parity](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0905-sort-array-by-parity) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0905-sort-array-by-parity](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Ternary Search
