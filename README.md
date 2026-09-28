@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0043-multiply-strings) |
+| [0172-factorial-trailing-zeroes](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0367-valid-perfect-square](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0367-valid-perfect-square) |
 | [1903-largest-odd-number-in-string](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
