@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0043-multiply-strings) |
 | [0172-factorial-trailing-zeroes](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0365-water-and-jug-problem](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0367-valid-perfect-square) |
 | [1903-largest-odd-number-in-string](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
@@ -145,4 +146,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0043-multiply-strings) |
+## Depth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0365-water-and-jug-problem) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0365-water-and-jug-problem) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
