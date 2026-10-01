@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0905-sort-array-by-parity) |
 ## Dynamic Programming
 |  |
@@ -170,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0365-water-and-jug-problem) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
