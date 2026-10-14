@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0043-multiply-strings) |
 | [0172-factorial-trailing-zeroes](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0204-count-primes) |
 | [0365-water-and-jug-problem](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0367-valid-perfect-square) |
 | [1903-largest-odd-number-in-string](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0275-h-index-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -175,4 +177,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
