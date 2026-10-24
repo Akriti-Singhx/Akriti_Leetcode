@@ -29,6 +29,10 @@ class Solution {
         // sabse pahle hamne next wale node ko save kiya 
         ListNode nextNode = curr.next;
         // ab reverse
+        //curr= 3, prev= 2, nextnode = 4 
+        //pahle 3 aur 5 ko connect karenge
+        // ab 3 aur 4 ko connect, mtlb 4 k bad 3 
+    
         curr.next = nextNode.next;
         nextNode.next = prev.next;
         prev.next = nextNode;
