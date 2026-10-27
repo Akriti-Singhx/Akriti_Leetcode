@@ -8,7 +8,7 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution {
+class Solution{
     public ListNode swapPairs(ListNode head) {
         
         // sabse pahle dummmy node banayege 
