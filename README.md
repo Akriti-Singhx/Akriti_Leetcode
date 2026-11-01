@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0817-linked-list-components](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0817-linked-list-components) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sliding Window
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [0817-linked-list-components](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0817-linked-list-components) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0707-design-linked-list) |
+| [0817-linked-list-components](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
