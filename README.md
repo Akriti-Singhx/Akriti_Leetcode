@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0367-valid-perfect-square) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Enumeration
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0204-count-primes) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Primality Test
 |  |
 | ------- |
