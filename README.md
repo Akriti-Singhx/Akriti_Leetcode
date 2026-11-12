@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0148-sort-list) |
 | [0451-sort-characters-by-frequency](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0905-sort-array-by-parity](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0206-reverse-linked-list) |
@@ -262,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
