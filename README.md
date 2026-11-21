@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0682-baseball-game) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0155-min-stack) |
 | [0707-design-linked-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
