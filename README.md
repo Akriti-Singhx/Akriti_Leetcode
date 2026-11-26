@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0678-valid-parenthesis-string](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Manacher
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1029-two-city-scheduling](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1029-two-city-scheduling) |
 | [1903-largest-odd-number-in-string](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0682-baseball-game) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0856-score-of-parentheses](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0856-score-of-parentheses) |
@@ -304,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Hungarian Algorithm
