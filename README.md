@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1598-crawler-log-folder](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1598-crawler-log-folder) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1598-crawler-log-folder](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1598-crawler-log-folder) |
