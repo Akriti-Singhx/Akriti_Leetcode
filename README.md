@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1021-remove-outermost-parentheses) |
