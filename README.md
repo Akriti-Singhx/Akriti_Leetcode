@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0682-baseball-game) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [0856-score-of-parentheses](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0856-score-of-parentheses) |
 | [0946-validate-stack-sequences](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Hungarian Algorithm
 |  |
