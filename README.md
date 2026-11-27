@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0682-baseball-game) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0856-score-of-parentheses](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0856-score-of-parentheses) |
+| [0901-online-stock-span](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0769-max-chunks-to-make-sorted](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [0901-online-stock-span](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Matrix
 |  |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0155-min-stack) |
 | [0707-design-linked-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0707-design-linked-list) |
+| [0901-online-stock-span](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0901-online-stock-span) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Recursion
 |  |
@@ -324,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1029-two-city-scheduling) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
