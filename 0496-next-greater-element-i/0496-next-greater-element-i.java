@@ -3,6 +3,7 @@ class Solution {
         Stack<Integer> stack = new Stack<>();
         HashMap<Integer, Integer> map = new HashMap<>();
 
+        // jab tk current element se pichla wala element chot mila tb tk pop.
         for(int num: nums2){
             while(!stack.isEmpty() && num>stack.peek()){
                 int remove = stack.pop();
