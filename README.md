@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1598-crawler-log-folder](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1598-crawler-log-folder) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1029-two-city-scheduling](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1029-two-city-scheduling) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1598-crawler-log-folder](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1598-crawler-log-folder) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Akriti-Singhx/Akriti_Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Hungarian Algorithm
 |  |
 | ------- |
